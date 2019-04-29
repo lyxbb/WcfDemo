@@ -1,0 +1,11 @@
+C:\ProjectDemo\WcfServiceDemo\LogDelegateDemo\bin\Debug\LogDelegateDemo.exe
+C:\ProjectDemo\WcfServiceDemo\LogDelegateDemo\bin\Debug\LogDelegateDemo.pdb
+C:\ProjectDemo\WcfServiceDemo\LogDelegateDemo\obj\Debug\LogDelegateDemo.csprojResolveAssemblyReference.cache
+C:\ProjectDemo\WcfServiceDemo\LogDelegateDemo\obj\Debug\LogDelegateDemo.Properties.Resources.resources
+C:\ProjectDemo\WcfServiceDemo\LogDelegateDemo\obj\Debug\LogDelegateDemo.csproj.GenerateResource.Cache
+C:\ProjectDemo\WcfServiceDemo\LogDelegateDemo\obj\Debug\LogDelegateDemo.csproj.CoreCompileInputs.cache
+C:\ProjectDemo\WcfServiceDemo\LogDelegateDemo\obj\Debug\LogDelegateDemo.exe
+C:\ProjectDemo\WcfServiceDemo\LogDelegateDemo\obj\Debug\LogDelegateDemo.pdb
+C:\ProjectDemo\WcfServiceDemo\LogDelegateDemo\bin\Debug\LogDelegateDemo.exe.config
+C:\ProjectDemo\WcfServiceDemo\LogDelegateDemo\bin\Debug\CompiledWebAssembly.exe
+C:\ProjectDemo\WcfServiceDemo\LogDelegateDemo\obj\Debug\LogDelegateDemo.FormMain.resources

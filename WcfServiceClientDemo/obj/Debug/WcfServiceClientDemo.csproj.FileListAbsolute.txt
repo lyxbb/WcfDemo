@@ -1,0 +1,5 @@
+C:\ProjectDemo\WcfServiceDemo\WcfServiceClientDemo\bin\Debug\WcfServiceClientDemo.exe
+C:\ProjectDemo\WcfServiceDemo\WcfServiceClientDemo\bin\Debug\WcfServiceClientDemo.pdb
+C:\ProjectDemo\WcfServiceDemo\WcfServiceClientDemo\obj\Debug\WcfServiceClientDemo.csproj.CoreCompileInputs.cache
+C:\ProjectDemo\WcfServiceDemo\WcfServiceClientDemo\obj\Debug\WcfServiceClientDemo.exe
+C:\ProjectDemo\WcfServiceDemo\WcfServiceClientDemo\obj\Debug\WcfServiceClientDemo.pdb

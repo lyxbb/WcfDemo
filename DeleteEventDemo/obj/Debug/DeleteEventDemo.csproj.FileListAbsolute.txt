@@ -1,0 +1,9 @@
+C:\ProjectDemo\WcfServiceDemo\DeleteEventDemo\bin\Debug\DeleteEventDemo.exe.config
+C:\ProjectDemo\WcfServiceDemo\DeleteEventDemo\bin\Debug\DeleteEventDemo.exe
+C:\ProjectDemo\WcfServiceDemo\DeleteEventDemo\bin\Debug\DeleteEventDemo.pdb
+C:\ProjectDemo\WcfServiceDemo\DeleteEventDemo\obj\Debug\DeleteEventDemo.csprojResolveAssemblyReference.cache
+C:\ProjectDemo\WcfServiceDemo\DeleteEventDemo\obj\Debug\DeleteEventDemo.Properties.Resources.resources
+C:\ProjectDemo\WcfServiceDemo\DeleteEventDemo\obj\Debug\DeleteEventDemo.csproj.GenerateResource.Cache
+C:\ProjectDemo\WcfServiceDemo\DeleteEventDemo\obj\Debug\DeleteEventDemo.csproj.CoreCompileInputs.cache
+C:\ProjectDemo\WcfServiceDemo\DeleteEventDemo\obj\Debug\DeleteEventDemo.exe
+C:\ProjectDemo\WcfServiceDemo\DeleteEventDemo\obj\Debug\DeleteEventDemo.pdb

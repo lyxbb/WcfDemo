@@ -1,0 +1,5 @@
+C:\ProjectDemo\WcfServiceDemo\INotifyPropertyChangedDemo\obj\Debug\INotifyPropertyChangedDemo.csprojResolveAssemblyReference.cache
+C:\ProjectDemo\WcfServiceDemo\INotifyPropertyChangedDemo\obj\Debug\INotifyPropertyChangedDemo.Form1.resources
+C:\ProjectDemo\WcfServiceDemo\INotifyPropertyChangedDemo\obj\Debug\INotifyPropertyChangedDemo.Properties.Resources.resources
+C:\ProjectDemo\WcfServiceDemo\INotifyPropertyChangedDemo\obj\Debug\INotifyPropertyChangedDemo.csproj.GenerateResource.Cache
+C:\ProjectDemo\WcfServiceDemo\INotifyPropertyChangedDemo\obj\Debug\INotifyPropertyChangedDemo.csproj.CoreCompileInputs.cache

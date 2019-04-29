@@ -1,0 +1,7 @@
+C:\ProjectDemo\WcfServiceDemo\WcfCallbackDemo\bin\Debug\WcfCallbackService.dll.config
+C:\ProjectDemo\WcfServiceDemo\WcfCallbackDemo\bin\Debug\WcfCallbackService.dll
+C:\ProjectDemo\WcfServiceDemo\WcfCallbackDemo\bin\Debug\WcfCallbackService.pdb
+C:\ProjectDemo\WcfServiceDemo\WcfCallbackDemo\obj\Debug\WcfCallbackService.csproj.CoreCompileInputs.cache
+C:\ProjectDemo\WcfServiceDemo\WcfCallbackDemo\obj\Debug\WcfCallbackService.dll
+C:\ProjectDemo\WcfServiceDemo\WcfCallbackDemo\obj\Debug\WcfCallbackService.pdb
+C:\ProjectDemo\WcfServiceDemo\WcfCallbackDemo\obj\Debug\WcfCallbackService.csprojResolveAssemblyReference.cache
